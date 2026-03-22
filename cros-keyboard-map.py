@@ -65,9 +65,6 @@ def get_arch():
 def get_ids_string(device_ids):
     return "\n".join(device_ids)
 
-def get_ignored_ids_string(device_ids):
-    return "\n".join(device_ids)
-
 def get_dt_layout():
     keys = []
     keycodes = []
