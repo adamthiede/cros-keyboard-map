@@ -17,6 +17,7 @@ device_ids = {
     "k:18d1:5044", # Google Inc. Hammer
     "k:18d1:5061", # Google Inc. Hammer
     "k:18d1:502b", # Google Inc. Hammer
+    "-0000:0000:404212c6", # Elan Touchscreen
 }
 
 vivaldi_keys = {
